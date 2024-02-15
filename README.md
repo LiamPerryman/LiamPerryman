@@ -2,8 +2,9 @@
 
 
 Here is what i use for my projects:  
-<img src="./html.png" />
-![Alt text](./html.png)   ![Alt text](./css.png)   ![Alt text](./javascript.png)   ![Alt text](./react.png)   ![Alt text](./tailwind.png)   ![Alt text](./bootstrap.png)   ![Alt text](./nodejs.png)   ![Alt text](./mongo.png)   ![Alt text](./expressjs.png) 
+<img src="./html.png" />  <img src="./css.png" /> <img src="./javascript.png" /> <img src="./react.png" /> <img src="./tailwind.png" /> <img src="./bootstrap.png" />  <img src="./nodejs.png" /> 
+<img src="./mongo.png" /> <img src="./expressjs.png" />  
+
 <!--
 **LiamPerryman/LiamPerryman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
