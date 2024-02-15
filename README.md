@@ -2,10 +2,10 @@
 
 
 Here are some things I use for my projects:  
-![Alt text](./html.png) HTML
-![Alt text](./css.png) CSS
-![Alt text](./javascript.png) JavaScript 
-![Alt text](./react.png) REACT 
+![Alt text](./html.png) HTML  
+![Alt text](./css.png) CSS  
+![Alt text](./javascript.png) JavaScript   
+![Alt text](./react.png) REACT   
 ![Alt text](./tailwind.png) Tailwind  
 ![Alt text](./bootstrap.png) Bootstrap 
 ![Alt text](./node.png) Node.js 
