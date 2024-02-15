@@ -1,9 +1,9 @@
 ![Header](./github-header-image.png)
 
 
-Here are some things I use for my projects: 
-![Alt text](./html.png) HTML \n
-![Alt text](./css.png) CSS \n
+Here are some things I use for my projects:\ 
+![Alt text](./html.png) HTML\
+![Alt text](./css.png) CSS
 ![Alt text](./javascript.png) JavaScript 
 ![Alt text](./react.png) REACT 
 ![Alt text](./tailwind.png) Tailwind  
