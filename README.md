@@ -7,7 +7,7 @@ Here is what i use for my projects:  </p>
 <img src="./mongo.png" /> <img src="./expressjs.png" />  
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiamPerryman_icons=true&theme=radical)
 
 
 <!--
