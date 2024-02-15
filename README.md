@@ -2,7 +2,7 @@
 
 
 Here are some things I use for my projects:  
-![Alt text](./html.png)   ![Alt text](./css.png)   ![Alt text](./javascript.png)   ![Alt text](./react.png)   ![Alt text](./tailwind.png)   ![Alt text](./bootstrap.png)   ! [Alt text](./node.png)   ![Alt text](./mongodb.png)   ![Alt text](./express.png) 
+![Alt text](./html.png)   ![Alt text](./css.png)   ![Alt text](./javascript.png)   ![Alt text](./react.png)   ![Alt text](./tailwind.png)   ![Alt text](./bootstrap.png)   ![Alt text](./node.png)   ![Alt text](./mongodb.png)   ![Alt text](./express.png) 
 <!--
 **LiamPerryman/LiamPerryman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
