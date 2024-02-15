@@ -2,7 +2,8 @@
 
 
 Here are some things I use for my projects:  
-![Alt text](./html.png) HTML  
+![Alt text](./html.png)   
+HTML  
 ![Alt text](./css.png) CSS  
 ![Alt text](./javascript.png) JavaScript   
 ![Alt text](./react.png) REACT   
