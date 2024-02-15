@@ -2,7 +2,7 @@
 
 
 Here are some things I use for my projects:  
-![Alt text](./html.png) ![Alt text](./css.png) ![Alt text](./javascript.png)   
+![Alt text](./html.png)  ![Alt text](./css.png)  ![Alt text](./javascript.png)   
 HTML  CSS   JavaScript  
  CSS  
  JavaScript   
