@@ -2,8 +2,8 @@
 
 
 Here are some things I use for my projects: 
-![Alt text](./html.png) HTML 
-![Alt text](./css.png) CSS 
+![Alt text](./html.png) HTML \n
+![Alt text](./css.png) CSS \n
 ![Alt text](./javascript.png) JavaScript 
 ![Alt text](./react.png) REACT 
 ![Alt text](./tailwind.png) Tailwind  
