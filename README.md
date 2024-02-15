@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 
-Here are some things I use for my projects:__
+Here are some things I use for my projects:  
 ![Alt text](./html.png) HTML
 ![Alt text](./css.png) CSS
 ![Alt text](./javascript.png) JavaScript 
