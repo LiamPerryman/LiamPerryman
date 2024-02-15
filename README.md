@@ -1,5 +1,6 @@
 
-![Header](./[github-header-image](https://github.com/LiamPerryman/LiamPerryman/assets/129959249/2dcde1af-b8e0-465e-9326-47124a68d27f))
+![Header](./(https://github.com/LiamPerryman/LiamPerryman/assets/129959249/a2d53792-8ac7-4525-8088-db46350a2804)
+)
 
 <!--
 **LiamPerryman/LiamPerryman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
